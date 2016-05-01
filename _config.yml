@@ -2,15 +2,12 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-exclude:             ['README.md']
-
-# relative_permalinks: true
 
 # Setup
 title:               琥珀川
 tagline:             '两个人有时差，一个人过四季'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://honqging.github.com
+description:         'Supported by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/poole/lanyon" target="_blank">lanyon</a>.'
+url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 paginate_path:		 "page:num"
@@ -18,8 +15,13 @@ paginate_path:		 "page:num"
 # About/contact
 author:
   name:              Mark Otto
-  url:               http://honqging.github.com
+  url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
+  photo:			 /public/img/aliaiti.jpeg
 
 # Custom vars
 version:             1.0.0
+
+# Gems
+gems: 				 [jekyll-paginate]
+gems: 				 [jekyll-paginate, jekyll-gist]

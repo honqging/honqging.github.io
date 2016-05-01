@@ -1,0 +1,15 @@
+---
+layout: default
+title: Blog
+---
+
+<h1>hello</h1>
+<ul>
+  {% for news in site.posts %}
+  <ol>
+    <a href="">{{news.title}}</a>
+    <p>{{news.category}}</p>
+  </ol>
+  {% endfor %}
+</ul>
+
