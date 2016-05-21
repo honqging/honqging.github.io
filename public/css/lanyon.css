@@ -561,3 +561,25 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+
+/*added by hongqing*/
+
+/*.follow-p{
+  float: left;
+}*/
+
+.follow-me img{
+  height: 20px;
+  width: 20px;
+  float: right;
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
