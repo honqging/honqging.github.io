@@ -576,6 +576,18 @@ a.pagination-item:hover {
   margin-right: 10px;
 }
 
+.index-bg {
+    text-align: center;
+    font-size: 0.75rem;
+}
+
+.index-bg>img {
+    height: 28rem;
+    width: auto;
+    display: inline;
+    margin-top: -1rem;
+}
+
 
 
 

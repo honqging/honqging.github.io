@@ -3,19 +3,24 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
+<div class="index-bg">
+  <img src="{{site.baseurl}}/public/img/aliaiti_vertical.jpeg">
+  <p>Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a></p>
+</div>
+<!-- <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
+      <a href="{{ site.baseurl_r }}/{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
-  </div>
+    {{ post.description }}
+
+  </div><hr>
   {% endfor %}
 </div>
 
@@ -34,5 +39,5 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->
 
