@@ -4,11 +4,11 @@ title: Blog
 ---
 
 <ul>
-  {% for news in site.posts %}
+  {% for post in site.posts %}
   <ol>
-    <a href="{{ site.baseurl_r }}/{{ post.url }}">{{news.title}}</a>
+    <a href="{{ site.baseurl_r }}/{{ post.url }}">{{post.title}}</a>
     <!-- <p style="float:left">{{news.category}}</p> -->
-    <p>{{news.description}}</p>
+    <p>{{post.description}}</p>
     <hr>
   </ol>
   {% endfor %}
