@@ -1,6 +1,6 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
+<input type="checkbox" class="sidebar-checkbox " id="sidebar-checkbox" {% if page.title =="Home" %}checked{% endif %}>
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -9,12 +9,20 @@
     <img src="{{site.baseurl}}/public/img/aliaiti.jpeg"/>
   </div>
 
+  <div class="sidebar-item" style="margin-top: 0; padding-top: 0;">
+    Stay hungry, Stay
+    <span class="" style="color: white;">
+      <b class="visible" style="display:none;">四级</b>
+      <b class="hidden">foolish</b>
+    </span>  
+  </div>
+
   <div class="sidebar-item follow-me" style="margin-top: 0; padding-top: 0">
         Follow me:
         <a href="https://github.com/honqging" target="_blank"><img src="{{site.baseurl}}/public/img/github.svg"/></a>
-        <a href="https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button"><img src="{{site.baseurl}}/public/img/linkedin.svg"/></a>
-        <a href=""><img src="{{site.baseurl}}/public/img/twitter.svg"/></a>
-        <a href="http://weibo.com/3924426622/profile?topnav=1&wvr=6"><img src="{{site.baseurl}}/public/img/weibo.svg"/></a>
+        <a href="https://cn.linkedin.com/in/qing-hong-76bab284"><img src="{{site.baseurl}}/public/img/linkedin.svg"/></a>
+        <a href="https://twitter.com/hongqing1001"><img src="{{site.baseurl}}/public/img/twitter.svg"/></a>
+        <a href="http://weibo.com/u/3924426622"><img src="{{site.baseurl}}/public/img/weibo.svg"/></a>
 
         <i class="github-icon"></i>
   </div>
