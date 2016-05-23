@@ -1,0 +1,17 @@
+.sidebar-pic img{
+	height: 80%;
+	width: 80%;
+}
+
+.github-icon{
+	background-image: url("../img/github.png");
+}
+
+.sidebar-follow img{
+	height: 10px;
+	width: 10px;
+}
+
+.sidebar-follow a{
+	float: left;
+}
