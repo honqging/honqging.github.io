@@ -301,10 +301,6 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  position: fixed;
-  width: 100%;
-  /*z-index: 1;*/
-  background-color: rgba(255,255,255,0.75);
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
@@ -432,4 +428,3 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
-
