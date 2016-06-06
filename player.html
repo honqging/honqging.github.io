@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>播放状态</title>
+    <!-- 引用jquery-->
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.min.js"></script>
+
+    <!-- 引用js/player.js-->
+    <script type="text/javascript" src="/public/js/player.js"></script>
+
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <link href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- 可选的Bootstrap主题文件（一般不使用） -->
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap-theme.min.css"></script>
+    <!--<link href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap-theme.min.css" rel="stylesheet">-->
+
+    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <script src="http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js"></script>
+
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+
+    </script>
+
+    <style>
+        .container, .col-md-3, .col-md-4{
+            text-align: center;
+        }
+
+        .row{
+            margin: 100px auto 0;
+        }
+
+        .col-md-4{
+            border-left: 1px solid #d6d6d6;
+            border-right: 1px solid #d6d6d6;
+        }
+
+        .songName{
+            margin-bottom: 2px;
+        }
+
+        .singer{
+
+        }
+
+        .col-md-6{
+            /*border-bottom: 1px lightgray solid;*/
+            margin: 5px auto;
+        }
+
+
+    </style>
+</head>
+<body>
+    <!--导航栏-->
+    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">琥珀川</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#carousel-example-generic">发现音乐</a></li>
+                    <li><a href="#summary-container">我的音乐</a></li>
+                    <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">关于<span class="caret"></span></a>
+                        <!--<ul class="dropdown-menu" role="menu">-->
+                        <!--<li><a href="#tab-chrome">Chrome</a></li>-->
+                        <!--<li><a href="#tab-firefox">Firefox</a></li>-->
+                        <!--<li><a href="#tab-safari">Safari</a></li>-->
+                        <!--<li><a href="#tab-opera">Opera</a></li>-->
+                        <!--<li><a href="#tab-ie">IE</a></li>-->
+                        <!--</ul>-->
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#tablist" data-tab="tab-chrome">Hong</a></li>
+                            <li><a href="#tablist" data-tab="tab-firefox">Hong</a></li>
+                            <li><a href="#tablist" data-tab="tab-safari">Hong</a></li>
+                            <li><a href="#tablist" data-tab="tab-opera">Hong</a></li>
+                            <li><a href="#tablist" data-tab="tab-ie">Hong</a></li>
+                        </ul>
+
+                    </li>
+                    <li><a href="#" data-toggle="modal" data-target="#about">个人主页</a></li>
+                    <!--<li class="col-md-offset-1"><a>head</a></li>-->
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!--播放界面-->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-3">
+                <img class="img-rounded img-responsive" src="/public/img/maoamin_xiangsi.png" id="mainCover">
+            </div>
+            <div class="col-md-4">
+                <h2>相思</h2>
+                <img src="/public/img/iconfont-musicoff.png" id="iconfont-music" onclick="AbstractView"/>
+                <p>歌手：<span>毛阿敏</span></p>
+                <p>发行时间：<span>2015-01-21</span></p>
+                <p>简介:<span>西游记后传 片尾曲</span></p>
+                <audio src="/public/music/maoamin_xiangsi.mp3" id="audioPlay" loop>
+                    <!--<source src="music/毛阿敏-相思.mp3" type="audio/ogg">-->
+
+
+                </audio>
+
+
+
+            </div>
+            <div class="col-md-3">
+                <h3>推荐歌曲<a style="font-size: 15px;" href="player_list.html"> /更多歌曲</a></h3>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <a href="index.html"><img class="img-responsive" src="/public/img/seeornot.png"></a>
+                    <p class="songName"><a>见或不见</a></p>
+                    <small class="singer"><a>孙燕姿</a></small>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <a href="index.html"><img class="img-responsive" src="/public/img/seeornot.png"></a>
+                    <p class="songName"><a>见或不见</a></p>
+                    <small class="singer"><a>孙燕姿</a></small>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <a href="index.html"><img class="img-responsive" src="/public/img/seeornot.png"></a>
+                    <p class="songName"><a>见或不见</a></p>
+                    <small class="singer"><a>孙燕姿</a></small>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <a href="index.html"><img class="img-responsive" src="/public/img/seeornot.png"></a>
+                    <p class="songName"><a>见或不见</a></p>
+                    <small class="singer"><a>孙燕姿</a></small>
+                </div>
+
+
+
+
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+
+
+
+
+
+
+
+
+
+    </div>
+</body>
+</html>
