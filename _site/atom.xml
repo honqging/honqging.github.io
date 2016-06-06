@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>琥珀川</title>
- <link href="http://honqging.github.com/atom.xml" rel="self"/>
- <link href="http://honqging.github.com/"/>
- <updated>2016-04-30T10:38:00+08:00</updated>
- <id>http://honqging.github.com</id>
+ <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://lanyon.getpoole.com/"/>
+ <updated>2016-06-06T22:33:14+08:00</updated>
+ <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
@@ -13,29 +13,409 @@
 
  
  <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://honqging.github.com/music/2016/04/26/startHtml/"/>
-   <updated>2016-04-26T00:00:00+08:00</updated>
-   <id>http://honqging.github.com/music/2016/04/26/startHtml</id>
-   <content type="html">&lt;h2&gt;What&#39;s Jekyll?&lt;/h2&gt;
-&lt;p&gt;我的第一篇文章&lt;/p&gt;
-&lt;p&gt;26 Apr 2016&lt;/p&gt;</content>
+   <title>总有一种期待永不孤单-林蕾</title>
+   <link href="http://lanyon.getpoole.com/chickensoup/2016/05/23/%E6%80%BB%E6%9C%89%E4%B8%80%E7%A7%8D%E6%9C%9F%E5%BE%85%E6%B0%B8%E4%B8%8D%E5%AD%A4%E5%8D%95/"/>
+   <updated>2016-05-23T00:00:00+08:00</updated>
+   <id>http://lanyon.getpoole.com/chickensoup/2016/05/23/总有一种期待永不孤单</id>
+   <content type="html">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;林蕾，中国人民大学国学院2007级本科生，现已被美国哈佛大学东亚研究项目以全额奖学金录取，即将以两篇优秀毕业论文分别取得历史学与经济学的学士学位。曾获吴玉章奖学金，多次获学习优秀一等奖学金、社会工作与志愿服务一等奖学金、国学基础一等奖学金及“三好学生”荣誉称号，囊括本校荣誉类、学习类、专项类三大类奖学金的最高奖项，曾多次在大型活动中作为学生代表进行发言和演讲。多个学期学分绩为全班第一并保持在3.9以上。语言优势明显，现已熟练掌握英语（GRE 1530，TOEFL 110，四六级均在640以上，口语能力突出）、日语、韩语，以及书面藏文、梵文，曾参与并领导数篇英文学术文章、两本学术著作的翻译发表。此外，曾获二十院院际友谊辩论赛亚军、“人大精神与大学精神”杯辩论赛季军。除校级奖项以外，还曾荣获2008年全国大学生英语竞赛C类（非英语专业本科生）一等奖。曾任国学院学生会副主席，国学2007级班长、学习委员等职务。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;谨以此文献给在大学四年中关心帮助我成长的老师们，以及不论悲欢都始终陪伴在我身边的伙伴们。我以你们为荣，因你们的存在才走到今天。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;序&lt;/h3&gt;
+
+&lt;p&gt;又来到了一个该数数过往的时刻。想想觉得不可思议，我的大学时光竟然只有短短二十天就要画上句号了。不知该从何说起，可就从提笔的那一刻，我的脑海中就出现了一副画面，挥之不去——索性就从这里开始吧，那是去年底的一个晚上，北方的风已经着上了毫不掩饰的寒意，天也已经黑得深沉了。我背着一整包书和资料，左手提着笔记本电脑和一盒刚买的方便面，右手拿着在跟母亲通话的手机，在路过静园的时候突然大哭了起来。或许是因为静园到了傍晚便油然而生的那种家的味道，或许是因为母亲温柔的安慰和鼓励，也或许是因为为了期末复习、写论文、写申请材料而连着熬了两个通宵又没好好吃饭的糟糕的身体状况，总之在那一刻一切可能的因素突然作用到一起，让我原本就紧绷而敏感的神经一下子崩溃了。&lt;/p&gt;
+
+&lt;p&gt;那是在我递出头一份申请的前一天晚上，在那之后一个月，我顺利完成了两个学位的全部课程和考试，并按时递出了每一所学校的申请材料；而那之后四个月内，我陆续收到了来自&lt;a href=&quot;http://www.harvard.edu/&quot;&gt;Harvard&lt;/a&gt;, &lt;a href=&quot;http://www.columbia.edu/&quot;&gt;Columbia&lt;/a&gt;, &lt;a href=&quot;http://www.uchicago.edu/&quot;&gt;Chicago&lt;/a&gt;, &lt;a href=&quot;https://umich.edu/&quot;&gt;Michigan&lt;/a&gt;等多所名校的录取和奖学金通知函。现在回想起来，已经说不清当时是什么东西在支撑着我尽最大努力把一切事情完成了下来，但能清晰地回忆起，总有一种期待，始终不曾磨灭。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;一 期待新知&lt;/h3&gt;
+
+&lt;p&gt;时常有学弟学妹问我是怎样始终保持在学习上的热情和冲劲的，说实话一直觉得这个问题很难回答，因为我从来不认为学习是一种负担；相反，我打从心底里觉得它是我人生迄今为止所做的最快乐、最有意义的事。我是一个好奇心很重的人，而学习恰恰是最能满足我好奇心的过程，所以我喜欢学习，从学习中所获得的愉悦和成就感可以说是自然而然的，而绩点之类的数据指标就更是不需要刻意为之了。&lt;/p&gt;
+
+&lt;p&gt;不过现实中的过程并没有说起来着寥寥数语般简单。在本科阶段，我选择的两个学科是历史学和经济学。很多人都对我的选择感到费解，不明白为什么我会做跨度如此大的选择。其实理由很单纯，我喜欢历史学和经济学，它们让我对世界的把握变得立体而客观。历史学穿越时光，探寻和诠释过去的事实；经济学解释当下，预测和判断未来的走向。所以就业等问题其实并不在我的考虑因素当中，还是那句话，只是因为爱学所以学。然而就是这个单纯的决定，让我度过了别人眼中挺“苦”的大学时光。两个专业的课程没有交叉，所以我不得不在短短四个学期内完成经济学第二学位要求的所有课程。而要想学好这两个学科都必须花费大量的时间和精力，在国学这方面，我通常会拓展阅读许多与课程相关的书籍和材料，这不仅包括史料和国内研究，更包括大量的外文材料，而事实证明这也在后来的申请过程中帮上了大。在阅读中发现问题或是与直接对象有关的别的案例，积极跟老师讨论，寻求解释并再发现新的问题，这个过程能让我的求知欲获得极大的满足。在经济学方面，我的本专业只要求修文科数学，而为了能更好地理解经济学的研究思路以及在未来利用各种各样的模型来解释问题，我自愿选修了所有经济学专业的数学课程，并高分通过了全部考试。印象最深的是大三上学期，我一边修着两个学位40多学分的课程，其中包括两门数学和计量经济学等难度较大的课，一边备考GRE和TOEFL。每天不是在上课就是在自习，回想起来连饭也没好好吃过一顿，到期末的时候更是每天只能睡三个小时。但现在回想起来，正是那种高强度的生活让我发现了自己的潜力，发现了原来自己可以做到很多在别人和自己眼中都不可能完成的事情。就在不久前，我的两篇分别有关黑水城汉译藏文密教文献，以及中国城市化过程中的社会经济文化去根化现象的毕业论文都已被评分为优秀，两个学士学位将见证我本科四年有知识和汗水陪伴的日日夜夜。&lt;/p&gt;
+
+&lt;p&gt;说到学习就想提到我的语言学习经历。目前我能够熟练掌握现代汉语和古文、英语、韩语、日语，并能够阅读藏文和梵文材料。这看起来很不可思议，但是想要跟大家分享的一点是，人类都有着沟通交流的本能，而语言便是人类交流的工具，因此各种语言都有着潜藏的共性，当学到一定程度的时候其实再增加语种，即使是自学已经变得不像刚开始接触外语时那么困难了，也才越来越能体会到接触新语言、发现语言规律的乐趣。语言学习之于我的重要性和趣味真的难以言说，只能称为我人生中必不可少的部分了。当然，为了能去北美研究生院深造，我也和大家一样需要花大量时间准备GRE考试。备考的日子是孤独和疲惫堆砌而成，但最终1530分（Verbal section percentile: 99%）的顶尖成绩似乎让一切的付出都得到了最好的证明。尽管备考冗长乏味，但英语学习的过程完全不必要呈现出这种“苦大仇深”的状态，复习累了的时候读读paper、研究著作，或是看看电影、美剧，你会发现那些奇形怪状的单词竟然如此生动地活跃在学术的世界，也活跃在我们日常生活的每个角落，于是你才明白怎么使用它们，于是你才真正开始从备考中获得让你获益匪浅的东西。语言能实现即时交流是关键的一步，所以我一直很重视培养自己各种外语的口语能力。通过严肃的练习也好，休闲性质的娱乐也好，每天我都会有一段时间是用于纠正发音、积累用语、提高口头表达能力的。在面对外国教授学者时，出色的听力和口语让我能完全地理解他们想要传达的学术思想，并准确地表达自己的意思，自如地与他们进行零障碍的沟通；在大三前往UCLA参加交流项目的时候，当地的老师和同学们都以为我曾经在美国生活过，殊不知这都是我在国内每天面对屏幕练习的成果。&lt;/p&gt;
+
+&lt;p&gt;优秀的语言能力更让我能抓住各种课外学习的机会，满足书本无法满足的求知心。我积极参与各种与我的研究方向相关的国际学术会议、研讨会、讲座，也通过这些场合认识了许多优秀的国内外学者，并让他们记住了一个未来会投身该领域的叫做林蕾的中国女生。大三时我便开始每周末参加沈卫荣教授的藏文文献阅读课，后来哈佛大学著名学者van der Kuijp教授来到人大时，我作为一名本科生参加了他主要面向研究生开设的藏文历史文献研讨课。初期也遇到了不小的知识性困难，刚开始好几天我都觉得自己无法适应课堂的强度和节奏，老师叫我解释一段材料的时候总是害怕犯错而不敢接招，看着老师瘪瘪嘴那带着失望的表情，我的心里特别不是滋味。于是后来我坚持每天预复习材料，补充阅读大量相关的外文研究文献，终于慢慢赶上了学长学姐们的进度。在课程接近尾声的某一天，教授面带微笑地拍拍我的肩膀说道：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You’ve got great talent in languages. Promise me, never waste it.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;之后他向我介绍了哈佛大学久负盛名的东亚研究项目，并表示如果某一天我要申请去哈佛大学深造，他一定全力支持我的申请。现在想想，或许正是那头几天的打击才让我开始拼命适应教授的课程节奏，也最终真的能够实现了当初的目标。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;二 期待发现&lt;/h3&gt;
+
+&lt;p&gt;通过阅读大量中外研究文献发现国内外研究的不同与差距，为了打破两类研究之间的隔阂而开始译著工作，细读作者的一字一句，体味他在字里行间所要传达的信息和思想，再精炼自己的一字一句，以力求完美地将作者的意思传达给另一种语言的读者，这就是我所理解的翻译学术著作的艺术。从阅读中发现未知，在课堂上聆听来自老师和同学们的不同观点，再通过实地考察、调研之类的各种形式收集材料，综合以上过程并与自己心里的已知发生碰撞，触发问题和观点，反过来再通过阅读、讨论、写作来常识解释、解决问题，这是我理解的研究的过程。无论是翻译还是研究，都是非常复杂和曲折的科研工作，需要充分的耐性和潜心的思考，但正是这样峰回路转、柳暗花明的过程，让我感觉到它们的意义和乐趣所在，也真正找到了自己的心之所向。&lt;/p&gt;
+
+&lt;p&gt;在沈卫荣老师的组织下，我们的小组已经完成了两个翻译项目，其中我独立翻译了三个主要章节，并完成了其他多个章节的修改和润色工作，目前即将引进一个新的项目。我曾翻译的一些学术文章已经在核心期刊或大型学术会议中发表。2010年暑期，在完成甘、青、宁、陕等汉藏文化交汇地带的实地考察后，我独立撰写了数万字的纪实报告Peace and Prayer: Travelling along the border between Tibet and Han，获得海外相关学者的好评。2010下半年，我独立完成长达25页的全英文学术论文the Interaction between Chinese Buddhism and Tibetan Buddhism during the Republican Period，这篇文章获得了哈佛大学东亚研究项目录取委员会教授们的一致认可，并最终为我赢得了本系今年的最高全额奖学金资助。&lt;/p&gt;
+
+&lt;p&gt;科研是一个让心沉静下来的过程。我喜欢阅读之后思想澎湃的充实感，也喜欢在史料之海中遨游而霎时间偶然心得的惊喜，更喜欢把跳跃的思考整理成系统而清晰的文字的成就感。是阅读和写作让我变得更加热爱思考，更加成熟。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;三 期待生活&lt;/h3&gt;
+
+&lt;p&gt;尽管我很享受一个人学习和研究的时间，但从来都不是一个只生活在书本里的人。可能是性格使然吧，我不是一个安静的人，兴趣爱好广泛，许多学习以外的有兴趣的活动和组织我也都全情投入。女生应该葆有经营生活的乐观和智慧，而我一直在努力做到。&lt;/p&gt;
+
+&lt;p&gt;我曾任国学院学生会副主席和文艺部长，成功组织过“金声玉振”五·四主持人大赛等多次校级大型活动；担任过“一二·九”合唱节的领唱，也带领国学院获得过合唱节C组第一名的好成绩。我是人大体育部拉拉队的主力成员，是中国大学生篮球超级联赛赛场上活力四射地舞蹈的“篮球宝贝”。我热爱辩论，喜欢辩论场上唇枪舌战的君子之争，曾代表国学院辩论队夺得二十院院际友谊辩论赛亚军、“人大精神与大学精神”杯辩论赛季军。我自愿担任成都市石室中学北京校友会理事两年，组织了许多沟通新老校友的活动，为母校的校友工作做出了自己的贡献。我利用自己的英语特长在北京新东方任教，学生中有许多后来考上了北大、清华、人大、复旦等著名大学。我坚持参与志愿服务，包括组织“5·12”震中募捐活动和震后孤儿心理辅导等项目，以及为美国大型志愿者组织在中国国内进行联络和培训工作等。&lt;/p&gt;
+
+&lt;p&gt;丰富多彩的大学生活让我充分感受到了身在这个时代和人大这片土地的美好，结交到值得感激一生的朋友们，也了解到其实我们已经过得很好，而这个世界上还有许许多多人在遭受着不幸，需要我们的帮助。我们作为这个时代的精英有能力也有责任去了解不幸的存在，并且怀着一颗温暖的心，伸出温暖的手。我们有很多事情可做，而这个世界需要我们。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;结语 期待未来&lt;/h3&gt;
+
+&lt;p&gt;我曾经是一个很浮躁的人，悲喜于得失，也像许多人一样，总爱幻想着成功的模样。现在我却不再去想了。我在想，“成功”二字其实就在你说出它的时刻，便失去了意义；相反，只有身体力行地做好每一件眼前、手中的事，才是真正的成功之道吧。2009年末，当我以最年轻的吴玉章奖学金获得者以及当年包揽各类奖学金最高奖项的学生的身份，代表全校学生站上领奖台发言时，我以为那已是我大学时代的巅峰了。连自己也不曾想到，经过不到两年的时间，我竟能手握着哈佛大学的全额奖学金录取通知书走出人大；更重要的是，内心竟如此明了地体会到学习和研究之于我的深刻意义。老子笃信道法自然，而我也不再一遍遍去描绘未来的蓝图了，只希望始终葆有一颗好奇之心，同时莫忘来时的初衷和此刻的美好，从现在起抓紧每分每秒，勇敢地怀揣自己所选择的，走下去。&lt;/p&gt;
+
+&lt;p&gt;其实热爱生命和知识的人，心中总有一种期待，在攀登的路上，永不孤独。&lt;/p&gt;
+
+&lt;p&gt;很欣赏福楼拜的一席话，谨以此赠予诸君，愿共勉之。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Do not read, as children do to amuse themselves,&lt;/p&gt;
+
+  &lt;p&gt;Or like the ambitious, for the purpose of instruction.&lt;/p&gt;
+
+  &lt;p&gt;No, read to live.”&lt;/p&gt;
+
+  &lt;p&gt;–Gustave Flaubert&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>匆匆那年</title>
+   <link href="http://lanyon.getpoole.com/lyric/2016/03/02/%E5%8C%86%E5%8C%86%E9%82%A3%E5%B9%B4/"/>
+   <updated>2016-03-02T00:00:00+08:00</updated>
+   <id>http://lanyon.getpoole.com/lyric/2016/03/02/匆匆那年</id>
+   <content type="html">&lt;p&gt;匆匆那年我们&lt;br /&gt;
+究竟说了几遍&lt;br /&gt;
+再见之后再拖延&lt;br /&gt;
+可惜谁有没有&lt;br /&gt;
+爱过不是一场&lt;br /&gt;
+七情上面的雄辩&lt;br /&gt;
+匆匆那年我们&lt;br /&gt;
+一时匆忙撂下&lt;br /&gt;
+难以承受的诺言&lt;br /&gt;
+只有等别人兑现&lt;br /&gt;
+不怪那吻痕还&lt;br /&gt;
+没积累成茧&lt;br /&gt;
+&lt;br /&gt;
+拥抱着冬眠也没能&lt;br /&gt;
+羽化再成仙&lt;br /&gt;
+不怪这一段情&lt;br /&gt;
+没空反复再排练&lt;br /&gt;
+是岁月宽容恩赐&lt;br /&gt;
+反悔的时间&lt;br /&gt;
+如果再见不能红着眼&lt;br /&gt;
+是否还能红着脸&lt;br /&gt;
+就像那年匆促&lt;br /&gt;
+刻下永远一起&lt;br /&gt;
+那样美丽的谣言&lt;br /&gt;
+如果过去还值得眷恋&lt;br /&gt;
+别太快冰释前嫌&lt;br /&gt;
+谁甘心就这样&lt;br /&gt;
+彼此无挂也无牵&lt;br /&gt;
+我们要互相亏欠&lt;br /&gt;
+要不然凭何怀缅&lt;br /&gt;
+匆匆那年我们&lt;br /&gt;
+见过太少世面&lt;br /&gt;
+只爱看同一张脸&lt;br /&gt;
+那么莫名其妙&lt;br /&gt;
+那么讨人欢喜&lt;br /&gt;
+闹起来又太讨厌&lt;br /&gt;
+相爱那年活该&lt;br /&gt;
+匆匆因为我们&lt;br /&gt;
+不懂顽固的诺言&lt;br /&gt;
+只是分手的前言&lt;br /&gt;
+不怪那天太冷&lt;br /&gt;
+泪滴水成冰&lt;br /&gt;
+春风也一样没&lt;br /&gt;
+吹进凝固的照片&lt;br /&gt;
+&lt;br /&gt;
+不怪每一个人&lt;br /&gt;
+没能完整爱一遍&lt;br /&gt;
+是岁月善意落下&lt;br /&gt;
+残缺的悬念&lt;br /&gt;
+如果再见不能红着眼&lt;br /&gt;
+是否还能红着脸&lt;br /&gt;
+就像那年匆促&lt;br /&gt;
+刻下永远一起&lt;br /&gt;
+那样美丽的谣言&lt;br /&gt;
+如果过去还值得眷恋&lt;br /&gt;
+别太快冰释前嫌&lt;br /&gt;
+谁甘心就这样&lt;br /&gt;
+彼此无挂也无牵&lt;br /&gt;
+如果再见不能红着眼&lt;br /&gt;
+是否还能红着脸&lt;br /&gt;
+就像那年匆促&lt;br /&gt;
+刻下永远一起&lt;br /&gt;
+那样美丽的谣言&lt;br /&gt;
+如果过去还值得眷恋&lt;br /&gt;
+别太快冰释前嫌&lt;br /&gt;
+谁甘心就这样&lt;br /&gt;
+彼此无挂也无牵&lt;br /&gt;
+我们要互相亏欠&lt;br /&gt;
+我们要藕断丝连&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>演员</title>
+   <link href="http://lanyon.getpoole.com/lyric/2015/12/31/%E6%BC%94%E5%91%98/"/>
+   <updated>2015-12-31T00:00:00+08:00</updated>
+   <id>http://lanyon.getpoole.com/lyric/2015/12/31/演员</id>
+   <content type="html">&lt;p&gt;简单点 说话的方式简单点&lt;br /&gt;
+递进的情绪请省略&lt;br /&gt;
+你又不是个演员&lt;br /&gt;
+别设计那些情节&lt;br /&gt;
+没意见 我只想看看你怎么圆&lt;br /&gt;
+你难过的太表面 像没天赋的演员&lt;br /&gt;
+观众一眼能看见&lt;br /&gt;
+该配合你演出的我演视而不见&lt;br /&gt;
+在逼一个最爱你的人即兴表演&lt;br /&gt;
+什么时候我们开始收起了底线&lt;br /&gt;
+顺应时代的改变看那些拙劣的表演&lt;br /&gt;
+可你曾经那么爱我干嘛演出细节&lt;br /&gt;
+我该变成什么样子才能延缓厌倦&lt;br /&gt;
+原来当爱放下防备后的这些那些&lt;br /&gt;
+才是考验&lt;br /&gt;
+没意见 你想怎样我都随便&lt;br /&gt;
+你演技也有限又不用说感言&lt;br /&gt;
+分开就平淡些&lt;br /&gt;
+该配合你演出的我演视而不见&lt;br /&gt;
+别逼一个最爱你的人即兴表演&lt;br /&gt;
+什么时候我们开始没有了底线&lt;br /&gt;
+顺着别人的谎言被动就不显得可怜&lt;br /&gt;
+可你曾经那么爱我干嘛演出细节&lt;br /&gt;
+我该变成什么样子才能配合出演&lt;br /&gt;
+原来当爱放下防备后的这些那些&lt;br /&gt;
+都有个期限&lt;br /&gt;
+其实台下的观众就我一个&lt;br /&gt;
+其实我也看出你有点不舍&lt;br /&gt;
+场景也习惯我们来回拉扯&lt;br /&gt;
+还计较着什么&lt;br /&gt;
+其实说分不开的也不见得&lt;br /&gt;
+其实感情最怕的就是拖着&lt;br /&gt;
+越演到重场戏越哭不出了&lt;br /&gt;
+是否还值得&lt;br /&gt;
+该配合你演出的我尽力在表演&lt;br /&gt;
+像情感节目里的嘉宾任人挑选&lt;br /&gt;
+如果还能看出我有爱你的那面&lt;br /&gt;
+请剪掉那些情节让我看上去体面&lt;br /&gt;
+可你曾经那么爱我干嘛演出细节&lt;br /&gt;
+不在意的样子是我最后的表演&lt;br /&gt;
+是因为爱你我才选择表演 这种成全&lt;br /&gt;&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://honqging.github.com/music/2016/04/26/start/"/>
-   <updated>2016-04-26T00:00:00+08:00</updated>
-   <id>http://honqging.github.com/music/2016/04/26/start</id>
+   <link href="http://lanyon.getpoole.com/blog/2015/12/31/whats-jekyll/"/>
+   <updated>2015-12-31T00:00:00+08:00</updated>
+   <id>http://lanyon.getpoole.com/blog/2015/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
+&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Lanyon.&lt;/p&gt;
 
 &lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What's Jekyll?</title>
+   <link href="http://lanyon.getpoole.com/news/2014/12/31/whats-jekyll%E5%89%AF%E6%9C%AC/"/>
+   <updated>2014-12-31T00:00:00+08:00</updated>
+   <id>http://lanyon.getpoole.com/news/2014/12/31/whats-jekyll副本</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Lanyon.&lt;/p&gt;
+
+&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introducing Lanyon</title>
+   <link href="http://lanyon.getpoole.com/news/2014/01/02/introducing-lanyon/"/>
+   <updated>2014-01-02T00:00:00+08:00</updated>
+   <id>http://lanyon.getpoole.com/news/2014/01/02/introducing-lanyon</id>
+   <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+
+&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
+
+&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Lanyon here) includes the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
+  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
+  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
+  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
+  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;lanyon-features&quot;&gt;Lanyon features&lt;/h3&gt;
+
+&lt;p&gt;In addition to the features of Poole, Lanyon adds the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Toggleable sliding sidebar (built with only CSS) via &lt;strong&gt;☰&lt;/strong&gt; link in top corner&lt;/li&gt;
+  &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
+  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/lanyon#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/poole/lanyon#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
+
+&lt;p&gt;Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
+
+&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
+
+&lt;p&gt;Lanyon is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Example content</title>
+   <link href="http://lanyon.getpoole.com/blog/2014/01/01/example-content/"/>
+   <updated>2014-01-01T00:00:00+08:00</updated>
+   <id>http://lanyon.getpoole.com/blog/2014/01/01/example-content</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+&lt;/div&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console
+&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments
+&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function
+&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Upvotes&lt;/th&gt;
+      &lt;th&gt;Downvotes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alice&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bob&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charlie&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  

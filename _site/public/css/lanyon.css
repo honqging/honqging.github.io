@@ -561,3 +561,117 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+
+/*added by hongqing*/
+
+/*.follow-p{
+  float: left;
+}*/
+html{
+  font-family: 'Merriweather', serif;
+}
+
+.container.content{
+  padding-top: 6rem;
+}
+
+.follow-me img{
+  height: 20px;
+  width: 15px;
+  float: right;
+  margin-right: 15px;
+}
+
+.index-bg {
+    text-align: center;
+    font-size: 0.75rem;
+}
+
+.index-bg>img {
+    height: 28rem;
+    width: auto;
+    display: inline;
+    margin-top: -1rem;
+}
+
+.blog-list{
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.blog-list ol{
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.blog-list-tag{
+  font-size: 75%;
+  padding: 0 .5rem 0 .2rem;
+  border-radius: 5px;
+  background: #e7f2f7;
+  color: #6a9fb5;
+  margin-right: 5px;
+  /*border: 1px red solid;*/
+
+}
+
+.blog-list-tag div{
+  height: 0.8rem;
+  margin-top: 0.2rem;
+  /*border: 1px blue solid;*/
+
+}
+
+.blog-list-tag img{
+  width: 0.8rem;
+  float: left;
+  margin-right: 3px;
+  margin-left: 0;
+  padding-top: 2px;
+}
+
+.blog-list-tag span{
+  float: left;
+}
+
+.page ol small{
+  color: gray;
+}
+
+.blog-list-category{
+  font-size: 100%;
+  padding: 0 .5rem 0 .2rem;
+  border-radius: 5px;
+  background: #e7f2f7;
+  color: black;
+  margin-right: 5px;
+  /*border: 1px red solid;*/
+
+}
+
+.blog-list-category div{
+  height: 1rem;
+  margin-top: 0.2rem;
+  /*border: 1px blue solid;*/
+
+}
+
+.blog-list-category img{
+  width: 1rem;
+  float: left;
+  margin-right: 3px;
+  margin-left: 0;
+  padding-top: 5px;
+}
+
+.blog-list-category span{
+  float: left;
+  color: #76C1B7;
+}
+
+
+
+
+
+
