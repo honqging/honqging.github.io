@@ -1,43 +1,51 @@
 ---
-layout: default
+layout: index_hq
 title: Home
 ---
 
-<div class="index-bg">
-  <img src="{{site.baseurl}}/public/img/aliaiti_vertical.jpeg">
-  <p>The Secret World of Arrietty &copy; <a href="http://www.ghibli.jp/">スタジオジブリ</a></p>
+<div class="index-back">
+  <img src="{{site.baseurl}}/public/img/myself.jpg" class="index-me"/>
+  <!-- <div class="index-me">
+    <img src="{{site.baseurl}}/public/img/myself.jpg" class="index-me"/>
+  </div> -->
+  <h1 class="index-h1">Hong Qing</h1>
+  <p id="index-des">I am curious about technology.</p>
+  <ul class="index-ul">
+    <li>
+      <a href="https://github.com/honqging" target="_blank"><img src="{{site.baseurl}}/public/img/github.svg"/></a>
+    </li>
+    <li>
+      <a href="https://cn.linkedin.com/in/qing-hong-76bab284" target="_blank"><img src="{{site.baseurl}}/public/img/linkedin.svg"/></a>
+    <li>
+      <a href="https://twitter.com/hongqing1001" target="_blank"><img src="{{site.baseurl}}/public/img/twitter.svg"/></a>
+    </li>
+    <li>
+      <a href="http://weibo.com/u/3924426622" target="_blank"><img src="{{site.baseurl}}/public/img/weibo.svg"/></a>
+    </li>
+  </ul>
 </div>
-<!-- <div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl_r }}/{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<script>
+  var des_i = 0;
+  var des = [
+              "I am curious about technology.",
+              "I like traveling and photography.",
+              "I work hard for things that are worth it.",
+              "And I am struggling against GRE nowadays."
+            ];
 
-    {{ post.description }}
-
-  </div><hr>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div> -->
-
+  function num(b){
+    return b%4;
+  }
+  function startrequest(){
+    console.log("des_i: " + des_i + ", num(i): " + num(des_i));
+    // $("#index-des").fadeIn();
+    $("#index-des").text(des[num(des_i)]);
+    // $("#index-des").fadeOut();
+    des_i++;
+    setTimeout("startrequest()",4000);
+  };
+  $(document).ready(function(){
+    startrequest();
+  });
+</script>

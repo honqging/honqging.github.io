@@ -1,17 +1,177 @@
-.sidebar-pic img{
-	height: 80%;
-	width: 80%;
-}
-
-.github-icon{
-	background-image: url("../img/github.png");
-}
-
-.sidebar-follow img{
-	height: 10px;
-	width: 10px;
-}
-
-.sidebar-follow a{
+.left{
 	float: left;
+}
+.right{
+	float: right;
+	width: 130px;
+	height: 130px;
+}
+
+.left h4{
+	color: #47ccbc;
+}
+
+small i{
+	color: gray;
+}
+
+.AH div{
+	height: 30px;
+	text-align: center;
+}
+
+.index-back{
+	background-image: url(../img/Cambridge.jpg);
+	background-repeat: repeat-y;
+	background-position: center center;
+	background-size: cover;
+	max-width: 100%;
+	height: 100%;
+	/*background-image: {
+		-webkit-filter: blur(4px);
+		filter: blur(4px);
+	};*/
+
+}
+
+.index-h1{
+	color: white;
+	font-size: 80px;
+	text-shadow: 5px 5px 5px gray;
+	margin-top: auto;
+}
+
+/*animation by CSS3*/
+#index-des{
+	color: black;
+	font-size: 30px;
+	/*animation-name:myfirst;
+	animation-duration:5s;
+	animation-timing-function:linear;
+	animation-delay:2s;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+	animation-play-state:running;*/
+
+	/* Safari and Chrome: */
+	/*-webkit-animation-name:myfirst;
+	-webkit-animation-duration:5s;
+	-webkit-animation-timing-function:linear;
+	-webkit-animation-delay:2s;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-direction:alternate;
+	-webkit-animation-play-state:running;*/
+}
+
+.index-me{
+	border: 5px solid white;
+	border-radius: 90px;
+	width: 180px;
+	height: 180px;
+	display: inline;
+	margin-top: 120px;
+
+	animation-name:index-me;
+	animation-duration:5s;
+	animation-timing-function:linear;
+	animation-delay:0s;
+	animation-iteration-count:2;
+	animation-direction:alternate;
+	animation-play-state:running;
+
+	/* Safari and Chrome: */
+	-webkit-animation-name:index-me;
+	-webkit-animation-duration:5s;
+	-webkit-animation-timing-function:linear;
+	-webkit-animation-delay:0s;
+	-webkit-animation-iteration-count:2;
+	-webkit-animation-direction:alternate;
+	-webkit-animation-play-state:running;
+}
+
+@keyframes index-me
+{
+	0%   {transform: rotate(0deg); left: 0px;}
+	25%  {transform: rotate(20deg); left: 0px;}
+	50%  {transform: rotate(0deg); left: 500px;}
+	55%  {transform: rotate(0deg); left: 500px;}
+	70%  {transform: rotate(0deg); left: 500px; border-color: green;}
+	100%  {transform: rotate(-360deg); left: 0px;}
+}
+
+@-webkit-keyframes index-me
+{
+	0%   {transform: rotate(0deg); left: 0px;}
+	25%  {transform: rotate(20deg); left: 0px;}
+	50%  {transform: rotate(0deg); left: 500px;}
+	55%  {transform: rotate(0deg); left: 500px;}
+	70%  {transform: rotate(0deg); left: 500px; border-color: green;}
+	100%  {transform: rotate(-360deg); left: 0px;}
+}
+
+.index-ul{
+	list-style: none;
+	height: 80px;
+	width: 40%;
+	/*border: 2px solid white;*/
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 300px;
+
+}
+
+.index-ul li{
+	float: left;
+	width: 80px;
+	height: 80px;
+	border-radius: 40px;
+	border: 2px solid white;
+	background: rgb(255, 255, 255, 0.8);;
+	margin-right: 15px;
+
+	animation-name:index-ul;
+	animation-duration:5s;
+	animation-timing-function:linear;
+	animation-delay:0s;
+	animation-iteration-count:2;
+	animation-direction:alternate;
+	animation-play-state:running;
+
+	/* Safari and Chrome: */
+	/*-webkit-animation-name:index-ul;
+	-webkit-animation-duration:5s;
+	-webkit-animation-timing-function:linear;
+	-webkit-animation-delay:0s;
+	-webkit-animation-iteration-count:2;
+	-webkit-animation-direction:alternate;
+	-webkit-animation-play-state:running;*/
+}
+
+@keyframes index-ul
+{
+	0%   {transform: rotate(0deg); left: 0px;}
+	25%  {transform: rotate(20deg); left: 0px;}
+	50%  {transform: rotate(50deg); left: 500px;}
+	70%  {transform: rotate(0deg); left: 500px; border-color: green;}
+	100%  {transform: rotate(-360deg); left: 0px;}
+}
+
+/*@-webkit-keyframes index-ul
+{
+	0%   {transform: rotate(0deg); left: 0px;}
+	25%  {transform: rotate(20deg); left: 0px;}
+	50%  {transform: rotate(0deg); left: 500px;}
+	55%  {transform: rotate(0deg); left: 500px;}
+	70%  {transform: rotate(0deg); left: 500px; border-color: green;}
+	100%  {transform: rotate(-360deg); left: 0px;}
+}*/
+
+
+
+.index-ul li img{
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: auto;
+
 }

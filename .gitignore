@@ -20,3 +20,9 @@ _site/index.html
 _site/atom.xml
 
 _site/about/index.html
+
+.idea/workspace.xml
+
+_site/blog/testBlog/index.html
+
+_site/resume/index.html
