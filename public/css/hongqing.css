@@ -21,16 +21,16 @@ small i{
 }
 
 .index-back{
-	background-image: url(../img/Cambridge.jpg);
+	background-image: url(../img/indexBackground.jpg);
 	background-repeat: repeat-y;
 	background-position: center center;
 	background-size: cover;
 	max-width: 100%;
 	height: 100%;
-	/*background-image: {
+	background-image: {
 		-webkit-filter: blur(4px);
 		filter: blur(4px);
-	};*/
+	};
 
 }
 
@@ -45,6 +45,7 @@ small i{
 #index-des{
 	color: black;
 	font-size: 30px;
+	/*text-align: center;*/
 	/*animation-name:myfirst;
 	animation-duration:5s;
 	animation-timing-function:linear;
@@ -66,47 +67,12 @@ small i{
 .index-me{
 	border: 5px solid white;
 	border-radius: 90px;
-	width: 180px;
+	/*width: 180px;*/
 	height: 180px;
+	width: auto;
 	display: inline;
 	margin-top: 120px;
 
-	animation-name:index-me;
-	animation-duration:5s;
-	animation-timing-function:linear;
-	animation-delay:0s;
-	animation-iteration-count:2;
-	animation-direction:alternate;
-	animation-play-state:running;
-
-	/* Safari and Chrome: */
-	-webkit-animation-name:index-me;
-	-webkit-animation-duration:5s;
-	-webkit-animation-timing-function:linear;
-	-webkit-animation-delay:0s;
-	-webkit-animation-iteration-count:2;
-	-webkit-animation-direction:alternate;
-	-webkit-animation-play-state:running;
-}
-
-@keyframes index-me
-{
-	0%   {transform: rotate(0deg); left: 0px;}
-	25%  {transform: rotate(20deg); left: 0px;}
-	50%  {transform: rotate(0deg); left: 500px;}
-	55%  {transform: rotate(0deg); left: 500px;}
-	70%  {transform: rotate(0deg); left: 500px; border-color: green;}
-	100%  {transform: rotate(-360deg); left: 0px;}
-}
-
-@-webkit-keyframes index-me
-{
-	0%   {transform: rotate(0deg); left: 0px;}
-	25%  {transform: rotate(20deg); left: 0px;}
-	50%  {transform: rotate(0deg); left: 500px;}
-	55%  {transform: rotate(0deg); left: 500px;}
-	70%  {transform: rotate(0deg); left: 500px; border-color: green;}
-	100%  {transform: rotate(-360deg); left: 0px;}
 }
 
 .index-ul{
@@ -130,44 +96,18 @@ small i{
 	background: rgb(255, 255, 255, 0.8);;
 	margin-right: 15px;
 
-	animation-name:index-ul;
-	animation-duration:5s;
-	animation-timing-function:linear;
-	animation-delay:0s;
-	animation-iteration-count:2;
-	animation-direction:alternate;
-	animation-play-state:running;
+	-webkit-transition: width 1s, height 1s, border 1s, background 1s, -webkit-transform 1s; /* For Safari 3.1 to 6.0 */
+	transition: width 1s, height 1s, border 1s, background 1s, transform 1s;
 
-	/* Safari and Chrome: */
-	/*-webkit-animation-name:index-ul;
-	-webkit-animation-duration:5s;
-	-webkit-animation-timing-function:linear;
-	-webkit-animation-delay:0s;
-	-webkit-animation-iteration-count:2;
-	-webkit-animation-direction:alternate;
-	-webkit-animation-play-state:running;*/
 }
 
-@keyframes index-ul
-{
-	0%   {transform: rotate(0deg); left: 0px;}
-	25%  {transform: rotate(20deg); left: 0px;}
-	50%  {transform: rotate(50deg); left: 500px;}
-	70%  {transform: rotate(0deg); left: 500px; border-color: green;}
-	100%  {transform: rotate(-360deg); left: 0px;}
+.index-ul li:hover{
+	-webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
+	transform: rotate(360deg);
+	border: 2px solid white;
+	background: white;
+
 }
-
-/*@-webkit-keyframes index-ul
-{
-	0%   {transform: rotate(0deg); left: 0px;}
-	25%  {transform: rotate(20deg); left: 0px;}
-	50%  {transform: rotate(0deg); left: 500px;}
-	55%  {transform: rotate(0deg); left: 500px;}
-	70%  {transform: rotate(0deg); left: 500px; border-color: green;}
-	100%  {transform: rotate(-360deg); left: 0px;}
-}*/
-
-
 
 .index-ul li img{
 	margin: auto;

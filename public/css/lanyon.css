@@ -585,10 +585,10 @@ html{
 
 .index-bg {
     text-align: center;
-    font-size: 0.75rem;
+    /*font-size: 0.75rem;*/
 }
 
-.index-bg>img {
+.index-bg index-back img {
     height: 28rem;
     width: auto;
     display: inline;
@@ -669,9 +669,3 @@ html{
   float: left;
   color: #76C1B7;
 }
-
-
-
-
-
-
