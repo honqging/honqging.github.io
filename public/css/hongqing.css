@@ -110,9 +110,13 @@ small i{
 	margin-bottom: auto;
 }
 
-/* override initial style*/
+/* sidebar */
+.sidebar-item > img{
+	border-radius: 10px 30px;
+}
+
+/* blog list */
 .blog-list ol{
-	/*border: 1px solid;*/
 	padding: 0 0 3%;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -130,4 +134,9 @@ small i{
 	padding: 3%;
 	margin: 0;
 	border-left: 5px solid rgb(60, 170, 155);
+}
+
+/* post */
+.post p{
+	margin: 0;
 }

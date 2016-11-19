@@ -4,8 +4,8 @@
 permalink:           pretty
 
 # Setup
-title:               琥珀川
-tagline:             '两个人有时差，一个人过四季'
+title:               Kevin Hong
+tagline:             'Life is like a dream'
 description:         'Supported by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/poole/lanyon" target="_blank">lanyon</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
@@ -16,9 +16,9 @@ paginate_path:		 "page:num"
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Kevin Hong
+  url:               https://twitter.com/
+  email:             hhhhhhh@gmail.com
   photo:			 /public/img/aliaiti.jpeg
 
 # Custom vars

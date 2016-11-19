@@ -14,7 +14,7 @@ title: Blog
 	<ul class="blog-list">
 	  {% for post in site.posts %}
 	  <ol>
-	    <h3><a href="{{ site.baseurl_r }}{{ post.url }}">{{post.title}}</a></h3>
+	    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
 			<p>{{post.description}}</p>
 			<hr>
 	    <small>{{post.date | date_to_string}}</small>
