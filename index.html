@@ -2,56 +2,52 @@
 layout: index_hq
 title: Home
 ---
-
 <div class="index-back">
-  <img src="{{site.baseurl}}/public/img/myself.jpg" class="index-me"/>
-  <!-- <div class="index-me">
+  <div class="index1">
     <img src="{{site.baseurl}}/public/img/myself.jpg" class="index-me"/>
-  </div> -->
-  <h1 class="index-h1">Hong Qing</h1>
-  <p id="index-des">I am curious about technology.</p>
-  <ul class="index-ul">
-    <li>
-      <a href="https://github.com/honqging" target="_blank"><img src="{{site.baseurl}}/public/img/github.svg"/></a>
-    </li>
-    <li>
-      <a href="https://cn.linkedin.com/in/qing-hong-76bab284" target="_blank"><img src="{{site.baseurl}}/public/img/linkedin.svg"/></a>
-    <li>
-      <a href="https://twitter.com/hongqing1001" target="_blank"><img src="{{site.baseurl}}/public/img/twitter.svg"/></a>
-    </li>
-    <li>
-      <a href="http://weibo.com/u/3924426622" target="_blank"><img src="{{site.baseurl}}/public/img/weibo.svg"/></a>
-    </li>
-    <li>
-      <a href="https://twitter.com/hongqing1001" target="_blank"><img src="{{site.baseurl}}/public/img/twitter.svg"/></a>
-    </li>
-    <li>
-      <a href="http://weibo.com/u/3924426622" target="_blank"><img src="{{site.baseurl}}/public/img/weibo.svg"/></a>
-    </li>
-  </ul>
+    <h1 class="index-h1">Kevin Hong</h1>
+  </div>
+
+  <div class="index2">
+    <h3 class="index-h3">Tongji University Software Engineering Graduate,<br>
+      Exploring, learning and looking for a real life.
+    </h3>
+
+    <p class="intro">
+      Hi I'm Kevin.<br>
+      I am 23 years old and I recently graduated from School of Software Engineering at Tongji University.<br>
+      Trying to be a great Software Engineer, learning from life, I believe I can make it and I will fight for it.<br>
+      Thanks for your visit and you can contact me
+      <a href="{{ site.baseurl }}/about">here!</a><br>
+      Have a nice day!
+    </p>
+  </div>
+
+
+  <div class="index3">
+    <table class="info" border="1">
+      <tr>
+          <td>
+            <a href="https://github.com/honqging" target="_blank"><img src="{{site.baseurl}}/public/img/github.svg"/></a>
+          </td>
+          <td>
+            <a href="https://cn.linkedin.com/in/qing-hong-76bab284" target="_blank"><img src="{{site.baseurl}}/public/img/linkedin.svg"/></a>
+          </td>
+          <td>
+            <a href="https://twitter.com/hongqing1001" target="_blank"><img src="{{site.baseurl}}/public/img/twitter.svg"/></a>
+          </td>
+          <td>
+            <a href="http://weibo.com/u/3924426622" target="_blank"><img src="{{site.baseurl}}/public/img/weibo.svg"/></a>
+          </td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="index4">
+    <p>
+      Life is like a dream.<br>
+      ©2017 by Kevin Hong
+    </p>
+  </div>
+
 </div>
-
-<script>
-  var des_i = 0;
-  var des = [
-              "I am curious about technology.",
-              "I like traveling and photography.",
-              "I work hard for things that are worth it.",
-              "And I am struggling against GRE nowadays."
-            ];
-
-  function num(b){
-    return b%4;
-  }
-  function startrequest(){
-    console.log("des_i: " + des_i + ", num(i): " + num(des_i));
-    // $("#index-des").fadeIn();
-    $("#index-des").text(des[num(des_i)]);
-    // $("#index-des").fadeOut();
-    des_i++;
-    setTimeout("startrequest()",4000);
-  };
-  $(document).ready(function(){
-    startrequest();
-  });
-</script>
