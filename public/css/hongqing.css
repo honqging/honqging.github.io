@@ -148,6 +148,18 @@ small i{
 	/*background: white;*/
 }
 
+/* track map */
+.track-map{
+	margin: 50px auto;
+	width: 80%;
+}
+
+@media screen and (max-width: 500px){
+	.track-map{
+		width: 95%;
+	}
+}
+
 /* sidebar */
 .sidebar-item > img{
 	border-radius: 10px 30px;
