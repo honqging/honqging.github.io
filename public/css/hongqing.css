@@ -35,14 +35,14 @@ small i{
 	margin-top: 15px;
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 800px){
 	.index1{
 		height: 350px;
 	}
 
 	.index-me{
 		border-radius: 75px;
-		height: 150px;
+		height: 145px;
 		margin-top: 110px;
 	}
 
@@ -69,7 +69,7 @@ small i{
 	 font-weight: 200;
  }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 800px){
 	.index-h3{
 		font-size: 25px;
 	}
@@ -129,7 +129,7 @@ small i{
 	}
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 800px){
 	.info img{
 		width: 60%;
 	}
