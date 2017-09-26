@@ -3,28 +3,23 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+> Hey! Here is a brief introduction of my experience, and you can have my [resume]({{site.baseurl}}/public/static/Resume_QingHong.pdf) here.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Minneapolis, MN
+My name is Qing Hong, (or just Kevin). Currently I am a first-year graduate student in [Computer Science](https://www.cs.umn.edu/) at [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), and I am actively seeking for *summer internship in 2018* nowadays.
+![]({{site.baseurl}}/public/img/aboutMN.jpg)
 
-There are currently two themes built on Poole:
+## Shanghai, China
+I have much experiece in programming and implementing practical projects when I was pursuing bachelor's degree in Software Engineering at [Tongji University](http://en.tongji.edu.cn/) in China.
+![]({{site.baseurl}}/public/img/aboutSH.jpg)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+During then, I had two internships at *Xiaoguo Tech* and *Perkin Elmer*, Inc respectively, where I applied what I learned at school to real usage and inspired me to be a better Software Engineer in the future. You can have my professional experience at [LinkedIn](https://cn.linkedin.com/in/qing-hong-76bab284).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+## Hong Kong
+One more thing I'd like to tell is my Exchange Experience in Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), where I love very very very much, both PolyU and Hong Kong. This is my first time to touch a new study system outside China Mainland and the exciting months there apparently broadened my horizon and some new friends I met there are really awesome. I have written [some words]({{site.baseurl}}/experience/2017/07/27/红磡四月&半/) trying to remember that, but I know only my heart will know that clearly.
+![]({{site.baseurl}}/public/img/aboutHK.jpg)
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+If you have any question or suggestion? Feel free to send me a [Email](hong0465@umn.edu) to get in touch with me.
 
 Thanks for reading!

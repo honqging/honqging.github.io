@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Kevin Hong
 tagline:             'Life is like a dream'
-description:         'Supported by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/poole/lanyon" target="_blank">lanyon</a>.'
+description:         'Supported by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, <a href="https://github.com/poole/lanyon" target="_blank">lanyon</a> and <a href="https://github.com/codinfox/codinfox-lanyon" target="_blank">codinfox-lanyon</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 baseurl_l:		  	 'http://127.0.0.1:4000'

@@ -11,19 +11,15 @@
   </div>
 
   <div class="sidebar-item" style="margin-top: 0; padding-top: 0;">
-    Stay hungry, Stay
-    <span class="" style="color: white;">
-      <b class="visible" style="display:none;">四级</b>
-      <b class="hidden">foolish</b>
-    </span>  
+    <p style="color: white;">Life is like a dream.
   </div>
 
   <div class="sidebar-item follow-me" style="margin-top: 0; padding-top: 0">
         Follow me:
         <a href="https://github.com/honqging" target="_blank"><img src="{{site.baseurl}}/public/img/github.svg"/></a>
         <a href="https://cn.linkedin.com/in/qing-hong-76bab284"><img src="{{site.baseurl}}/public/img/linkedin.svg"/></a>
-        <a href="https://twitter.com/hongqing1001"><img src="{{site.baseurl}}/public/img/twitter.svg"/></a>
-        <a href="http://weibo.com/u/3924426622"><img src="{{site.baseurl}}/public/img/weibo.svg"/></a>
+        <a href="https://twitter.com/qinghong1001"><img src="{{site.baseurl}}/public/img/twitter.svg"/></a>
+        <a href="https://www.weibo.com"><img src="{{site.baseurl}}/public/img/weibo.svg"/></a>
 
         <i class="github-icon"></i>
   </div>
@@ -32,8 +28,9 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
     <a class="sidebar-nav-item" href="{{ site.baseurl }}/blog">Blog</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/about">About</a>
 
-    {% comment %}
+    <!-- {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
@@ -45,7 +42,7 @@
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
         {% endif %}
       {% endif %}
-    {% endfor %}
+    {% endfor %} -->
   </nav>
 
   <div class="sidebar-item">
