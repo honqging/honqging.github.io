@@ -1,0 +1,40 @@
+body{
+    padding-top: 50px;
+}
+.sidebar{
+    position: fixed;
+    top: 51px;
+    bottom: 0;
+    z-index: 1000;
+    padding: 20px;
+    display: block;
+    background-color: #dddddd;
+    border-right: 1px solid #eee;
+}
+
+.nav-sidebar{
+    margin-bottom: 20px;
+}
+
+.nav-sidebar > li > a{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus{
+    color: white;
+    background-color: #428bca;
+}
+
+
+
+/* for test.html */
+.left{
+  background-color: red;
+}
+
+.right{
+  background: green;
+}

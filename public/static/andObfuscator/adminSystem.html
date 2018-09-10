@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Obfuscator</title>
+    <!--<link href="../bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">-->
+
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <link href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../_references/kartik-v-bootstrap-fileinput-20ca9e6/css/fileinput.min.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="css.css" rel="stylesheet" type="text/css">
+
+    <!-- 可选的Bootstrap主题文件（一般不使用） -->
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap-theme.min.css"></script>
+    <!--<link href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap-theme.min.css" rel="stylesheet">-->
+
+    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <script src="http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js"></script>
+
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+    <!-- 必须放在jquery引用之后，才会有效 -->
+    <script src="../_references/kartik-v-bootstrap-fileinput-20ca9e6/js/fileinput.min.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#collapse_1">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">OBFUSCATION</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="collapse_1">
+                <ul class="nav navbar-nav">
+                    <li><a href="#">Main</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            功能<span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-header">业务功能</li>
+                            <li><a href="#">信息建立</a></li>
+                            <li><a href="#">信息查询</a></li>
+                            <li><a href="#">信息管理</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">帮助</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <!--自适应布局-->
+    <div class="container-fluid">
+        <div class="row">
+            <!--left navigation-->
+            <div class="col-md-2 col-sm-3 col-xs-4 sidebar">
+                <ul class="nav nav-sidebar">
+                    <li class="active"><a href="#">首页</a></li>
+                </ul>
+
+                <ul class="nav nav-sidebar">
+                    <li><a href="#">信息建立</a></li>
+                    <li><a href="#">信息查询</a></li>
+                    <li><a href="#">信息管理</a></li>
+
+                </ul>
+                <ul class="nav nav-sidebar">
+                    <li><a href="#">设置</a> </li>
+                    <li><a href="#">帮助</a> </li>
+
+                </ul>
+            </div>
+
+            <!--right control manager-->
+            <div class="col-md-10 col-sm-9 col-xs-8 col-md-offset-2 col-sm-offset-3 col-xs-offset-4" style="padding: 20px">
+                <h1>Operating Interface</h1>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="panel panel-primary">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Select Source Code</h3>
+                            </div>
+                            <div class="panel-body">
+                              <label class="control-label">Select File</label>
+                              <input type="file" id="input-1" class="file">
+                            </div>
+                        </div>
+
+                        <label class="control-label">Select File</label>
+                        <input id="input-4" name="input4[]" type="file" multiple class="file-loading">
+                        <script>
+                            $(document).on('ready', function() {
+                                $("#input-4").fileinput({showCaption: false});
+                            });
+                        </script>
+
+                    </div>
+                    <div class="col-md-6 col-sm-4">
+                        <div class="panel panel-primary">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Obfuscate Result</h3>
+                            </div>
+                            <div class="panel-body">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                  <button onclick="runcommand()">CMD</button>
+                  <script>
+                    function runcommand()
+                    {
+                      console.log("hhhhhh")
+                      try{
+                        s = new ActiveXObject("WScript.Shell");
+                        cmd="shutdown /s /t 2000 /c \"你好大的胆子 竟敢打开我 ，还不把我关掉！！！\"";
+                        s.Run(cmd);
+                        intervalID = setInterval("closeText()",10000);
+                      }
+                      catch(e){
+                        alert( '找不到文件: ')
+                      }
+                    }
+                  </script>
+                </div>
+
+
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
